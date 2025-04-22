@@ -220,7 +220,7 @@ class Simulation():
         plt.title("Technology Adoption Over Time")
         plt.legend()
         plt.grid(True)
-        plt.savefig("Assigment-05-Durante.pdf")
+        plt.savefig("Technology_Choice_Simulation.pdf")
         plt.show()
         
 """ Main entry point """
